@@ -58,7 +58,7 @@ address { font-style: normal; }
 .position, .affiliation { font-size: .9375rem; line-height: 1.6; color: var(--muted); }
 .position { margin-bottom: .3rem; }
 .affiliation { margin-bottom: 0; }
-.portrait { width: 7.5rem; max-width: 100%; margin: 1.1rem 0 0; }
+.portrait { width: 8.4375rem; max-width: 100%; margin: 1.1rem 0 0; }
 .portrait img { display: block; width: 100%; height: auto; border-radius: 2px; }
 .site-nav {
   border-top: 1px solid var(--line);

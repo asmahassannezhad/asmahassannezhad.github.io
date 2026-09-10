@@ -1,6 +1,6 @@
 # Asma Hassannezhad — academic website
 
-An independent academic website for GitHub Pages: About, Research and Teaching, with a pale blue sidebar, deep blue headings and burgundy accents. The pages have no portrait or separate collaborators directory.
+An independent academic website for GitHub Pages: About, Research and Teaching.
 
 Start with **GITHUB-SETUP.md** for the full publishing and editing instructions.
 

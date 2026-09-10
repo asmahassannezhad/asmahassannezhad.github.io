@@ -58,6 +58,8 @@ address { font-style: normal; }
 .position, .affiliation { font-size: .9375rem; line-height: 1.6; color: var(--muted); }
 .position { margin-bottom: .3rem; }
 .affiliation { margin-bottom: 0; }
+.portrait { width: 7.5rem; max-width: 100%; margin: 1.1rem 0 0; }
+.portrait img { display: block; width: 100%; height: auto; border-radius: 2px; }
 .site-nav {
   border-top: 1px solid var(--line);
   margin-top: 1.5rem;
@@ -129,6 +131,7 @@ address { font-style: normal; }
   .layout { display: block; width: calc(100% - 2rem); padding-top: 20px; }
   .sidebar { position: static; padding: 20px; margin-bottom: 1.5rem; display: grid; grid-template-columns: minmax(0, 1fr); column-gap: 16px; }
   .identity-copy { align-self: center; }
+  .portrait { width: 5rem; }
   .site-nav, .academic-links, .sidebar-contact { grid-column: 1 / -1; }
   .main-column > main { padding-top: 0; }
   .site-name { font-size: 1.7rem; margin-bottom: .7rem; }

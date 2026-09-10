@@ -91,7 +91,7 @@ address { font-style: normal; }
 .publication-status { font-style: italic; color: var(--accent); }
 .page-heading { margin-bottom: 1.6rem; }
 .page-heading p { font-size: 1.0625rem; }
-..page-index {
+.page-index {
   display: flex;
   flex-wrap: wrap;
   gap: .5rem 1.35rem;

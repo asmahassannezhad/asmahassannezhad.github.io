@@ -91,7 +91,15 @@ address { font-style: normal; }
 .publication-status { font-style: italic; color: var(--accent); }
 .page-heading { margin-bottom: 1.6rem; }
 .page-heading p { font-size: 1.0625rem; }
-.page-index { display: flex; flex-wrap: wrap; gap: .5rem 1.35rem; padding-bottom: .6rem; margin-bottom: 1.25rem; border-bottom: 1px solid var(--line); font-size: .875rem; }
+..page-index {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1.35rem;
+  padding-bottom: .5rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--line);
+  font-size: .875rem;
+}
 .paper-group { margin-bottom: 1.5rem; }
 .paper-group:last-child { margin-bottom: 0; }
 .paper { padding: .875rem 0; border-top: 1px solid var(--line); }

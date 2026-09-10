@@ -29,7 +29,7 @@ p { margin: 0 0 1.15rem; }
 h1, h2, h3 { margin-top: 0; color: var(--heading); }
 h1, h2 { font-family: var(--heading-font); font-weight: 400; }
 h1 { font-size: 2.2rem; line-height: 1.25; margin-bottom: 1.5rem; }
-h2 { font-size: 1.6rem; line-height: 1.35; margin-bottom: 1.2rem; }
+h2 { font-size: 1.6rem; line-height: 1.35; margin-bottom: .6rem; }
 h3 { font-size: 1.0625rem; line-height: 1.6; font-weight: 600; }
 strong { font-weight: 600; }
 ul { margin: 0; padding: 0; list-style: none; }
@@ -92,7 +92,7 @@ address { font-style: normal; }
 .page-heading { margin-bottom: 1.6rem; }
 .page-heading p { font-size: 1.0625rem; }
 .page-index { display: flex; flex-wrap: wrap; gap: .5rem 1.35rem; padding-bottom: 1.5rem; margin-bottom: 2rem; border-bottom: 1px solid var(--line); font-size: .875rem; }
-.paper-group { margin-bottom: 2rem; }
+.paper-group { margin-bottom: 1.5rem; }
 .paper-group:last-child { margin-bottom: 0; }
 .paper { padding: .875rem 0; border-top: 1px solid var(--line); }
 .paper h3 { margin-bottom: .4rem; }

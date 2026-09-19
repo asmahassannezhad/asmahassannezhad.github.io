@@ -8,4 +8,4 @@ Open `index.html` in your browser. For GitHub Pages, upload this folder's conten
 
 No build tools, JavaScript, external fonts or dependency installation are required. All content is editable in the three HTML files, with design settings in `assets/style.css`.
 
-The `assets/notes/` folder contains the lecture-note PDFs. The `wp-content/` folder preserves original WordPress media paths for incoming links. See **MIGRATION-NOTES.md** for content sources and changes.
+The `assets/notes/` folder contains the lecture-note PDFs. 
